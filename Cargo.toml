@@ -1,0 +1,6 @@
+[package]
+name = "rust_opengl"
+version = "0.1.0"
+authors = ["Pascal Spörri <pascal@spoerri.me>"]
+[dependencies.glfw]
+git = "https://github.com/bjz/glfw-rs.git"
